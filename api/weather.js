@@ -3,7 +3,7 @@ import path from 'path';
 
 export default async function handler(req, res) {
     try {
-        const filePath = path.join(process.cwd(), 'api', 'weather.json');
+        const filePath = path.join(process.cwd(), 'api', 'weatherData.json');
         const data = await readFile(filePath, 'utf-8');
         const json = JSON.parse(data);
 
