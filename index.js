@@ -32,6 +32,9 @@ async function weather(){
             tempElement.textContent = `${temperature}°C`
 
 
+            let location = document.getElementById("city")
+            location.textContent = `📍 ${tempData.name}`
+
             let weather = document.getElementById("weather")
             weather.textContent = tempData.condition;
 
