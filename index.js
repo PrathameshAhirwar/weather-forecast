@@ -7,6 +7,7 @@ async function weather(){
     cities.map((val)=>{
         let option = document.createElement('option')
         option.text = val.name
+        option.value = val.name
         select.appendChild(option)    
     })   
 
