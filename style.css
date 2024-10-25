@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* Header Section */
+header{
+    height: 75px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+}
+
+/* This  of location Icon inside Header */
+.fa-location-pin{
+    margin: 15px ;
+    padding: 5px;
+    color: red;
+
+}
+
+.fa-location-pin > select{
+    border: none;
+    font-size: large;
+    background-color:antiquewhite;
+}
+
+/* This the heading inside Header */
+#heading{
+    margin: 15px;
+    padding: 5px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:600px) {
+
+    body {
+    padding: 10px;
+  }
+
+  header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 5px;
+  }
+
+  h1#heading {
+    font-size: 8px;
+    text-align: center;
+  }
+
+  select#select {
+    font-size: 8px;
+    margin-top: 10px;
+  }
+
+  i.fa-solid.fa-location-pin {
+    font-size: 1.2rem;
+  }
+}
+
+
+/* Main section */
+main{
+    height: 81vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:80%;
+
+}
+
+
+main > h1{
+    font-size: 150px;
+    color: #333;
+    text-shadow: 
+    1px 1px 0px #888, 
+    2px 2px 0px #777,
+    3px 3px 0px #666,
+    4px 4px 0px #555;
+    
+}
+
+main >h2{
+    margin-top: -2%;
+    font-size: 60px;
+    color: #333;
+    text-shadow: 
+    1px 1px 0px #888, 
+    2px 2px 0px #777,
+    3px 3px 0px #666,
+    4px 4px 0px #555;
+}
+
+main >h3{
+    margin-top: -1%;
+    color: #333;
+    text-shadow: 
+    1px 1px 0px #888, 
+    2px 2px 0px #777,
+    3px 3px 0px #666,
+    4px 4px 0px #555;
+}
+
+/* Footer */
+footer{
+    height: 75px;
+    border: 1px solid;
+    text-align: center;
+    background-color: antiquewhite;
+}
