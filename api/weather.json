@@ -1,0 +1,173 @@
+{
+    "cities": [
+      {
+        "name": "Mumbai",
+        "temperature": 30,
+        "condition": "Sunny",
+        "quote": "A bright day to enjoy at the beach!"
+      },
+      {
+        "name": "Pune",
+        "temperature": 25,
+        "condition": "Rainy",
+        "quote": "Don’t forget your umbrella today!"
+      },
+      {
+        "name": "Nagpur",
+        "temperature": 34,
+        "condition": "Sunny",
+        "quote": "Perfect day to grab some oranges!"
+      },
+      {
+        "name": "Nashik",
+        "temperature": 22,
+        "condition": "Cloudy",
+        "quote": "The vineyards look beautiful under the clouds."
+      },
+      {
+        "name": "Aurangabad",
+        "temperature": 28,
+        "condition": "Partly Cloudy",
+        "quote": "A great day to visit the historic sites!"
+      },
+      {
+        "name": "Kolhapur",
+        "temperature": 27,
+        "condition": "Rainy",
+        "quote": "A rainy day is perfect for some hot Kolhapuri food!"
+      },
+      {
+        "name": "Solapur",
+        "temperature": 31,
+        "condition": "Sunny",
+        "quote": "It’s a hot day; stay hydrated!"
+      },
+      {
+        "name": "Thane",
+        "temperature": 29,
+        "condition": "Sunny",
+        "quote": "Sunny vibes all around, perfect for a walk in Upvan Lake!"
+      },
+      {
+        "name": "Sangli",
+        "temperature": 26,
+        "condition": "Cloudy",
+        "quote": "A cool day to explore the sugarcane fields."
+      },
+      {
+        "name": "Nanded",
+        "temperature": 32,
+        "condition": "Sunny",
+        "quote": "A sunny day to visit the Hazur Sahib!"
+      },
+      {
+        "name": "Jalgaon",
+        "temperature": 33,
+        "condition": "Sunny",
+        "quote": "Sunny skies make for a perfect day in the Banana City!"
+      },
+      {
+        "name": "Amravati",
+        "temperature": 29,
+        "condition": "Partly Cloudy",
+        "quote": "A great day for a stroll in the local parks."
+      },
+      {
+        "name": "Akola",
+        "temperature": 31,
+        "condition": "Sunny",
+        "quote": "Warm and sunny—don’t forget to hydrate!"
+      },
+      {
+        "name": "Chandrapur",
+        "temperature": 35,
+        "condition": "Sunny",
+        "quote": "A hot day—stay cool and indoors!"
+      },
+      {
+        "name": "Latur",
+        "temperature": 28,
+        "condition": "Rainy",
+        "quote": "Rainy weather calls for some hot chai and bhajiya!"
+      },
+      {
+        "name": "Dhule",
+        "temperature": 27,
+        "condition": "Cloudy",
+        "quote": "Cloudy skies make for a pleasant day."
+      },
+      {
+        "name": "Beed",
+        "temperature": 30,
+        "condition": "Sunny",
+        "quote": "Bright and sunny, perfect for a day out!"
+      },
+      {
+        "name": "Satara",
+        "temperature": 24,
+        "condition": "Rainy",
+        "quote": "A rainy day to enjoy the greenery of Kaas Plateau."
+      },
+      {
+        "name": "Malegaon",
+        "temperature": 26,
+        "condition": "Cloudy",
+        "quote": "Cloudy skies—perfect weather for a calm day."
+      },
+      {
+        "name": "Ratnagiri",
+        "temperature": 29,
+        "condition": "Partly Cloudy",
+        "quote": "The beach awaits on this partly cloudy day!"
+      },
+      {
+        "name": "Jalna",
+        "temperature": 30,
+        "condition": "Sunny",
+        "quote": "Sunny and warm—time to soak up some sunshine!"
+      },
+      {
+        "name": "Parbhani",
+        "temperature": 32,
+        "condition": "Sunny",
+        "quote": "A sunny day to explore the city’s rich heritage."
+      },
+      {
+        "name": "Wardha",
+        "temperature": 33,
+        "condition": "Sunny",
+        "quote": "Sunny and hot—stay cool and take it easy!"
+      },
+      {
+        "name": "Yavatmal",
+        "temperature": 34,
+        "condition": "Sunny",
+        "quote": "A hot day calls for staying in the shade!"
+      },
+      {
+        "name": "Bhandara",
+        "temperature": 29,
+        "condition": "Partly Cloudy",
+        "quote": "A perfect day for a relaxed afternoon."
+      },
+      {
+        "name": "Osmanabad",
+        "temperature": 28,
+        "condition": "Rainy",
+        "quote": "Rainy weather is perfect for cozy indoor activities."
+      },
+      {
+        "name": "Gondia",
+        "temperature": 30,
+        "condition": "Sunny",
+        "quote": "A sunny day—great for some outdoor fun!"
+      },
+      {
+        "name": "Baramati",
+        "temperature": 27,
+        "condition": "Cloudy",
+        "quote": "The clouds offer a nice break from the heat."
+      }
+    ]
+  }
+  
