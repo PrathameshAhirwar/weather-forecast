@@ -1,6 +1,8 @@
 async function weather(){
-    let data = await fetch("/api/weather")
-    let cities = await data.json();
+    let data= await fetch("https://weather-forecast-rho-puce.vercel.app/api/weather");
+    let collect = await data.json();
+    let cities = collect.cities
+    console.log(cities)
     let select = document.getElementById("select")
     cities.map((val)=>{
         let option = document.createElement('option')
