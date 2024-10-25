@@ -1,5 +1,5 @@
 async function weather(){
-    let data = await fetch("http://localhost:3000/cities")
+    let data = await fetch("/api/weather")
     let cities = await data.json();
     let select = document.getElementById("select")
     cities.map((val)=>{
